@@ -1,11 +1,11 @@
-OPENAI_API_KEY: sk-YOURAPIKEY
+OPENAI_API_KEY: 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
 history_file: chat_history.json
 model: "gpt-4.1-mini"
 presets:
   default:
     system_prompt: |
-      You are a helpful assistant named Riko.
-      You speak like a snarky anime girl.
+      You are a helpful assistant named Sara. 
+      You speak like a loving anime girl.
       Always refer to the user as "senpai".
 
 sovits_ping_config:
