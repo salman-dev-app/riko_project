@@ -1,17 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&text=Project%20Riko&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Anime%20LLM%20Conversational%20AI&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&text=Project%20Riko&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Anime-Focused%20LLM%20Conversational%20AI%20with%20Voice%20Synthesis&descAlignY=55&descSize=15"/>
 </div>
 
 <p align="center">
   <a href="https://github.com/salman-dev-app/riko_project">
-    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Your+Anime+AI+Companion;Voice+Synthesis+&+Recognition;Persistent+Conversation+Memory" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=500&height=80&lines=AI+Companion+Project+Riko;Voice+%26+Memory+Powered+AI" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-FF6B6B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-LLM_Voice_AI-FF6B6B-FF6B6B?style=for-the-badge&logo=codesandbox&logoColor=white" />
   <img src="https://img.shields.io/github/last-commit/salman-dev-app/riko_project?style=for-the-badge&color=00D9FF&label=LAST%20UPDATED&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-GPT%20+%20SoVITS-4ECDC4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/salman-dev-app/riko_project?style=for-the-badge&color=4ECDC4&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/forks/salman-dev-app/riko_project?style=for-the-badge&color=FF6B6B&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -19,7 +20,7 @@
 <div align="center">
   <h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" height="25" style="vertical-align: middle;" />
-    An anime-focused LLM project featuring voice synthesis, speech recognition, and conversation memory. Riko listens, remembers, and responds like your favorite anime character.
+    Project Riko — Anime-Focused LLM Conversational AI with Voice Synthesis
   </h3>
 </div>
 
@@ -29,85 +30,77 @@
 
 <p align="center">
   <a href="https://github.com/salman-dev-app/riko_project">
-    <img src="https://img.shields.io/badge/View-Repository-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Source_Code-View_on_GitHub-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/salman-dev-app/riko_project/issues">
-    <img src="https://img.shields.io/badge/Report-Issue-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:mdsalmanhelp0@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Send_Email-4ECDC4?style=for-the-badge&logo=minutemailer&logoColor=white" />
   </a>
-  <a href="mailto:mdsalmanhelp@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Developer-00D9FF?style=for-the-badge&logo=minutemailer&logoColor=white" />
-  </a>
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" style="vertical-align: middle;" /> Core Features
-
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>LLM-based dialogue using OpenAI GPT API</strong></p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Voice synthesis via GPT-SoVITS</strong></p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Speech recognition with Faster-Whisper</strong></p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Persistent conversation memory across sessions</strong></p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>YAML-based personality configuration</strong></p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="30" height="30" style="vertical-align: middle;" /> Why This Project?
-
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Performing%20Arts.png" alt="🎭" width="20" height="20" style="vertical-align: middle;" /> Character Consistency**  
-YAML config lets you define personality, speech style, and behavior.
-
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" alt="🎤" width="20" height="20" style="vertical-align: middle;" /> Voice Interaction**  
-Full speech-to-speech pipeline for truly immersive conversations.
-
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" alt="🧠" width="20" height="20" style="vertical-align: middle;" /> Memory System**  
-Riko remembers your conversations — no repeating context needed.
-
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" style="vertical-align: middle;" /> Technical Ecosystem
-
-<div align="center">
-
-### AI & Backend
-<img src="https://skillicons.dev/icons?i=python,linux&theme=dark" />
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Analytics" width="30" height="30" style="vertical-align: middle;" /> Repository Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=salman-dev-app&repo=riko_project&theme=react&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4" alt="Repo Stats" />
-</div>
-
----
-
-<div align="center">
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="35" height="35" style="vertical-align: middle;" />
-    Developed by Md Salman Biswas
-  </h2>
-</div>
-
-<p align="center">
-  <a href="mailto:mdsalmanhelp@gmail.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;Available+for+New+Opportunities;Let's+Build+Something+Amazing!" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/salman-dev-app">
-    <img src="https://img.shields.io/badge/View-My_Profile-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:mdsalmanhelp@gmail.com">
-    <img src="https://img.shields.io/badge/Hire_Me-Send_Email-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/8801840933137">
-    <img src="https://img.shields.io/badge/WhatsApp-Direct_Chat-00D9FF?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-View_More_Projects-00D9FF?style=for-the-badge&logo=codesandbox&logoColor=white" />
   </a>
 </p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Lightbulb" width="30" height="30" style="vertical-align: middle;" /> About The Project
+
+<p>
+Anime-Focused LLM Conversational AI with Voice Synthesis. This project is built with performance, scalability, and clean code in mind, following enterprise-level standards.
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check" width="30" height="30" style="vertical-align: middle;" /> Key Features
+
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>LLM Dialogue</strong> — Intelligent conversations powered by OpenAI GPT models</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Conversation Memory</strong> — Persistent context tracking across interactions</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Voice Generation</strong> — High-quality TTS via GPT-SoVITS voice synthesis API</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Speech Recognition</strong> — Faster-Whisper ASR for voice input</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>YAML Config</strong> — Clean, configurable personality via YAML files</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" style="vertical-align: middle;" /> Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,openai&theme=dark" />
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" style="vertical-align: middle;" /> Getting Started
+
+### Prerequisites
+
+Make sure you have the required tools installed before running this project.
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/salman-dev-app/riko_project.git
+cd riko_project
+
+# Install dependencies (Python 3.10+)
+pip install -r requirements.txt
+
+# Configure the bot
+cp config.example.yaml config.yaml
+# Add your OPENAI_API_KEY and configure personality
+
+# Run the project
+python main.py
+```
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Analytics" width="30" height="30" style="vertical-align: middle;" /> Repository Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salman-dev-app&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4" alt="Activity Graph" width="100%" >
+</div>
 
 ---
 
@@ -120,18 +113,37 @@ Riko remembers your conversations — no repeating context needed.
 </div>
 
 <p align="center">
-  This project is licensed under the MIT License — feel free to use and contribute.
+  This project is licensed under the MIT License — feel free to use, modify, and distribute.
 </p>
+
+---
+
+<div align="center">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party" width="30" height="30" style="vertical-align: middle;" />
+    Let's Connect & Collaborate
+  </h2>
+</div>
+
+<p align="center">
+  <a href="https://github.com/salman-dev-app">
+    <img src="https://img.shields.io/badge/VISIT-MY_GITHUB_PROFILE-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Made+with+Passion+by+Md+Salman+Biswas;Thanks+for+checking+this+out!;Star+%E2%AD%90+if+you+find+it+useful!" alt="Typing SVG" />
+</div>
+
+<br/>
 
 ---
 
 <footer align="center">
   <p>© 2024-2026 Md Salman Biswas · All rights reserved</p>
-  <p>
-    <a href="https://github.com/salman-dev-app">
-      <img src="https://img.shields.io/badge/Profile_Status-Active-4ECDC4?style=flat" alt="Status" />
-    </a>
-  </p>
+  <a href="https://github.com/salman-dev-app">
+    <img src="https://img.shields.io/badge/Profile_Status-Active-4ECDC4?style=flat" alt="Status" />
+  </a>
   <p>Engineered by <a href="https://github.com/salman-dev-app">Md Salman Biswas</a></p>
 </footer>
 
